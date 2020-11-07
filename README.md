@@ -10,3 +10,4 @@ I'm Bhavik Chavda, glad to have you, I'm a full stack developer, thinking and wr
   - linkedin:= https://www.linkedin.com/in/bvchavda/
   - medium:= https://medium.com/@chavdabhavik
   - twitter:= https://twitter.com/bhavikvchavda
+  - email:= bhavikvchavda@gmail.com
