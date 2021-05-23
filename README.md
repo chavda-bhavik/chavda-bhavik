@@ -1,7 +1,5 @@
 # Hey 👋, I'm Bhavik Chavda.
 
- Full stack web developer, content-creator and book reader.
-
 - 🔭 I’m currently working on Node, React and trying to make web more fast and accessible
 - 🌱 Most of time reading personal development books and articles on web development
 - 💬 I can help you in Node, React, Accessibility, SEO and Improving web performance
