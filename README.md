@@ -1,26 +1,20 @@
 # Hey 👋, I'm Bhavik Chavda.
 
 - 🔭 I’m currently working on Node, React and trying to make web more fast and accessible
-- 🌱 Most of time reading personal development books and articles on web development
-- 💬 I can help you in Node, React, Accessibility, SEO and Improving web performance
-- 📫 We can connect at: 
-  - linkedin:= https://www.linkedin.com/in/heybhavik
-  - hashnode:= https://bhavikchavda.hashnode.dev
-  - twitter:= https://twitter.com/heybhavik
+- 🌱 I spent most of time in reading and writing quality code
+- 💬 I can help you in Node, React, Accessibility, Security, SEO and Improving Web-Performance
+- 📫 It would be pleasure to meet and connect with you, you can find me on: 
+  - linkedin:= https://www.linkedin.com/in/chavdabhavik7
+  - twitter:= https://twitter.com/chavdabhavik7
   - email:= bhavikvchavda@gmail.com
+  - website:= https://www.bhavikchavda.com
 
+---
+### 📔 I likes to share content
 
-### 📕 Popular and Usefull Posts I shared on LinkedIn
+> I likes to share posts on topics like **Web-Development**, **Web-Performance**, **JavaScript**, **Accessibility** and **SEO**
 
-<!-- LINKEDIN-POSTS-LIST:START -->
-- [How to improve performance for img tag](https://www.linkedin.com/posts/heybhavik_improving-web-performance-with-image-tag-activity-6796815902194200576-IET8)
-- [Brief guid to JamStack](https://www.linkedin.com/posts/heybhavik_jamstack-activity-6792766452891037696-ZZcq)
-- [Web Accessibility](https://www.linkedin.com/posts/heybhavik_brief-on-aria-label-activity-6784855116655796224-qk1K)
-- [CSS in JS](https://www.linkedin.com/posts/heybhavik_jss-parser-that-converts-javascript-style-activity-6775438481486442496-nUS7)
-- [Webpack](https://www.linkedin.com/posts/heybhavik_webpack-activity-6771665803378069504-rBAl)
-<!-- LINKEDIN-POSTS-LIST:END -->
-
-➡️ [view more posts...](https://www.linkedin.com/in/heybhavik)
+➡️ [Read all posts...](https://www.bhavikchavda.com/content)
 
 ---
 
@@ -30,7 +24,7 @@
 - [Create dynamic theme in react](https://bhavikchavda.hashnode.dev/step-by-step-guide-on-creating-a-dynamic-theme-in-react-thats-color-changes-based-on-user-selection)
 <!-- BLOG-POSTS-LIST:END -->
 
-➡️ [view more posts...](https://bhavikchavda.hashnode.dev/)
+➡️ [View all posts...](https://bhavikchavda.hashnode.dev/)
 
 ---
 
