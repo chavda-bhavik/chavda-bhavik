@@ -1,5 +1,4 @@
 # Hey 👋, I'm Bhavik Chavda
-> ### I develop websites, create content and likes meeting people.
 
 <img align="right" src='banner.png'>
 
