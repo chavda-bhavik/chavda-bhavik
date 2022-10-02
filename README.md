@@ -23,6 +23,7 @@
 - Posted **20+** posts on web-development in LinkedIn
 - Actively handled Responsibility of Class Representative for six months
 - Participated in Hackathon and Developed IoT-based water monitoring solution for monitoring and analyzing water consumption
+[![@chavdabhavik7's Holopin board](https://holopin.io/api/user/board?user=chavdabhavik7)](https://holopin.io/@chavdabhavik7)
 
 ## 📔 I likes to share content
 
