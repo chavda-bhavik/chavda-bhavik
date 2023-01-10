@@ -17,6 +17,10 @@
 - 🌱 I spent most of time in reading books and writing code
 - 💬 I can help you in **Node**, **React**, **Accessibility**, **Security**, **SEO** and in **Web-Performance**
 
+## 😂 Fun fact about me
+
+- I keep on listening to english songs, but I didn't understand them.
+
 ## 🥇 Some of my Achievements
 - Spoke as a Host in college Annual Function
 - Gave a talk on **Web-Security** at community and in college
